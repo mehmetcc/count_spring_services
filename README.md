@@ -10,5 +10,5 @@ python3 cli.py --path GIVEN_PATH --keyword GIVEN_KEYWORD --extension GIVEN_EXTEN
 
 For example, to search for how many Java files contains the keyword @Service, the arguments should be entered as such:
 ```shell
-python3 cli.py --path GIVEN_PATH --keyword @Service --extension .java
+python3 cli.py --path your/project/path --keyword @Service --extension .java
 ```
