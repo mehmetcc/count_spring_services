@@ -1,5 +1,5 @@
 # Runtime-logic related
-PATH_FLAG = "/Users/Mehmet/Desktop/frost"
+PATH_FLAG = "some_path"
 KEYWORD_FLAG = "@Service"
 EXTENSION_FLAG = ".java"
 
