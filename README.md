@@ -1,4 +1,4 @@
-#count_spring_services
+# count_spring_services
 
 Walk each and every file and search for a keyword. Searches subdirectories as well.
 
